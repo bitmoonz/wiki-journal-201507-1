@@ -2,7 +2,6 @@
 ![01](images/openstack-01.jpg)  
 来源：http://www.infoworld.com/article/2948901/openstack/4-reasons-google-joined-openstack.html    
 时间：2015年7月17日  
-
 作者：Serdar Yegulalp  
 
 ##关于本文
@@ -36,7 +35,6 @@
 虽然 OpenStack 已经成为混合云的标准，但目前只有[公有云的工作负载](http://www.infoworld.com/article/2919272/openstack/openstack-cant-carry-the-private-cloud-without-aws.html)有所增长。为此，谷歌将与 OpenStack 更加密切地合作，以使谷歌云平台作为 OpenStack 一个无缝的公共补充--同时扩充云平台的收益来源。
 
 谷歌的博客文章暗示了这一方向的事情：
-
 
 > 我们希望增加容器-对企业开发采取本地模式，提高公有和私有云之间的互操作性。我们将在未来几月与基金会整合 Kubernetes，以及互补的容器技术，以创造一个更强大的混合云。
 
